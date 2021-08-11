@@ -90,9 +90,7 @@ Environment variables that control the operation of the app are defined in the
 in the following table.
 
 Environment variables maintained in the `.env` file are made available to the
-application code via `process.env.<variable-name>`. For example, the
-port for the UI is accessed in the code by referencing
-`process.env.PORT`.
+application code via `process.env.<variable-name>`.
 
 | Environment Variable | Description         | Example Setting | Applicability |
 | :------------------- | :------------------ | :-------------- | :------------ |
