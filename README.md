@@ -44,7 +44,6 @@ Below is a list of applicable links:
   - Problem Statement
   - Definitions
   - Use Cases
-  - User Stories
   - Wireframes
   - Entity Relationship Diagrams
   - Kanban Board
